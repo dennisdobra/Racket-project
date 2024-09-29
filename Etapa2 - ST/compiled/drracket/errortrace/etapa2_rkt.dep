@@ -1,0 +1,1 @@
+("8.12" ta6nt ("17632068ef14e487612e9b7e215fc9e1f8f2b5c0" . "9433415977983630632dfccff66dee8a91619b95") #"C:\\Users\\denni\\Desktop\\PP\\Etapa2 - ST\\etapa1.rkt" #"C:\\Users\\denni\\Desktop\\PP\\Etapa2 - ST\\suffix-tree.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
